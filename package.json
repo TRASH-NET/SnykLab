@@ -1,0 +1,9 @@
+{
+    "name": "snyklab",
+    "version": "0.0.1",
+    "description": "Security lab CI/CD",
+    "author": "TRASH-NET",
+    "private": true,
+    "license": "UNLICENSED"
+  }
+  
